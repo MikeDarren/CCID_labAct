@@ -1,5 +1,5 @@
-<body style="background-color:maroon">
+<body style="background-color:sky blue">
     <h1><?php
-        echo "Bisaya ka 123"; 
+        echo "Welcome!!!"; 
     ?></h1>
 </body>
